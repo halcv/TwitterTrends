@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitterトレンド情報</string>
+    <string name="getButton">トレンド情報取得</string>
+    <string name="url">http://api.twitter.com/1/trends/23424856.json</string>
+    <string name="getError">トレンド情報が取得できませんでした。</string>
+</resources>
